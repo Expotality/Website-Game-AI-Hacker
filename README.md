@@ -18,7 +18,7 @@ Transform any browser-based idle or incremental game into an intelligent, AI-pow
 Follow these steps to get your local environment configured and ready to run the agent.
 
 ### Step 1: Clone or Download the Repository
-Clone this repository to your local machine or download it as a ZIP archive and extract it to a folder of your choice.
+Clone this repository to your local machine or download it as a ZIP archive and extract it to a folder of your choice. (the top right (^code) button leads to it) 
 
 ### Step 2: Install Python Dependencies
 Open your terminal (or command prompt), navigate into the project directory, and install the required packages using the requirements file:
