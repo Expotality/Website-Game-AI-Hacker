@@ -9,7 +9,7 @@ from google import genai
 # ====================================================
 # 🔑 USER CONFIGURATION: FILL IN YOUR DETAILS BELOW
 # ====================================================
-GEMINI_API_KEY = "YOUR KEY HERE"  # Replace with your actual Google Gemini API Key
+GEMINI_API_KEY = "YOUR_API_KEY_HERE"  # Replace with your actual Google Gemini API Key
 # ====================================================
 
 GEMINI_MODELS = {
