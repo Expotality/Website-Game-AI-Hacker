@@ -18,7 +18,7 @@ Transform any browser-based idle or incremental game into an intelligent, AI-pow
 Follow these steps to get your local environment configured and ready to run the agent.
 
 ### Step 1: Clone or Download the Repository
-Clone this repository to your local machine or download it as a ZIP archive and extract it to a folder of your choice. (the top right (<>code^) button leads to it) 
+Clone this repository to your local machine or download it as a ZIP archive and extract it to a folder of your choice. (the top right (<>code^) button leads to it, AND DONT FORGET TO EXTRACT/UNZIP IT!!!) 
 
 ### Step 2: Install Python Dependencies
 Open your terminal (or command prompt), navigate into the project directory, and install the required packages using the requirements file:
@@ -51,10 +51,7 @@ playwright install
 
 ## 🚀 Running the Application
 
-1. Start the Streamlit application by running the following command in your terminal:
-   ```bash
-   streamlit run app.py
-   ```
+1. Start the Streamlit application by double clicking the 'run' file in the folder
 2. Your web browser will automatically open to the local Streamlit user interface (`http://localhost:8501`).
 3. Select your preferred browser from the launcher panel and click **🚀 Launch Browser in Debug Mode**.
 4. Open your target idle or incremental game in that newly spawned browser window, navigate back to the app, refresh your tabs, select your game tab, and start hacking!
