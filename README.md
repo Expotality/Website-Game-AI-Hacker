@@ -60,3 +60,9 @@ playwright install
 ## 🛡️ License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## Contact!
+
+Contact me @Expotality on discord if you have anything to say about the AI hacker.
